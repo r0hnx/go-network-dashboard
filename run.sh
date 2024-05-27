@@ -1,0 +1,1 @@
+ENV=DEBUG CGO_ENABLED=1 GOARCH=arm64 go run main.go
